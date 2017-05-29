@@ -1,6 +1,8 @@
 /* # Content Area
 ---------------------------------------------------------------------------------------------------- */
 
-import "entries";
-import "meta";
-import "pagination";
+import "base";
+import "entry-meta";
+import "entry-header/index";
+import "entry-content";
+import "entry-footer/index";
