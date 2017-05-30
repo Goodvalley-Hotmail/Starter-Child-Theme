@@ -4,12 +4,44 @@
 $white: #fff;
 $black: #000;
 
-$base__Color: #333;
 
-$link__Color: #c3251d;
+//
+// Elements
+//=======================================
+$body__BackgroundColor: #eee;
+$base__TextColor: #333;
+$link__TextColor: #c3251d;
 $link__HoverColor: #333;
 
-$body__BackgroundColor: #eee;
+//
+// Form Elements
+//=======================================
+$input__BackgroundColor: $white;
+$input__TextColor: #333;
+$input__BorderColor: #ddd;
+$input__FocusBorderColor: #999;
+
+$button__BackgroundColor: #333;
+$button__FocusBackgroundColor: #c3251d;
+$button__TextColor: #white;
+$button__FocusTextColor: #white;
+$button__DisabledBackgroundColor: #eee;
+$button__DisabledTextColor: #777;
+
+$searchInput__BackgroundColor: $white;
+$searchInput__TextColor: #333;
+
+//
+// Gallery Elements
+//=======================================
+$galleryImage__BorderColor: #eee;
+$galleryImage__HoverColor: #999;
+
+//
+// Table Elements
+//=======================================
+$tbody__BorderColor: #eee;
+$td__BorderColor: #eee;
 
 //
 // Header
@@ -82,3 +114,11 @@ $enews__SubmitButton__BackgroundColor: #c3251d;
 $enews__SubmitButton__TextColor: $white;
 $enews__SubmitButton__BackgroundHoverColor: $white;
 $enews__SubmitButton__TextHoverColor: #c3251d;
+
+//
+// General Components
+//=======================================
+$breadcrumbs__BackgroundColor: $white;
+$authorBox__BackgroundColor: $white;
+$afterEntry__BackgroundColor: $white;
+$archiveDescription__BackgroundColor: $white;
