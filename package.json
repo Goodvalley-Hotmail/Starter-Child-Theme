@@ -1,0 +1,24 @@
+{
+  "name": "developer",
+  "version": "1.0.0",
+  "description": "This is a developer-friendly starter child theme for the [Genesis theming framework](http://my.studiopress.com/themes/genesis/) which includes a modular architecture, Sass, gulp, Bourbon, Neat, and Composer.  It is your starting child theme for all of your projects to save you time and moola.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goodvalley-Hotmail/Starter-Child-Theme.git"
+  },
+  "author": "Carles Goodvalley",
+  "license": "GPL-2",
+  "bugs": {
+    "url": "https://github.com/Goodvalley-Hotmail/Starter-Child-Theme/issues"
+  },
+  "homepage": "https://github.com/Goodvalley-Hotmail/Starter-Child-Theme#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "bourbon": "^4.2.6",
+    "bourbon-neat": "^1.7.2"
+  }
+}
